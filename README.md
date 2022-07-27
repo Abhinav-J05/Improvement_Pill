@@ -1,5 +1,8 @@
 # Improvement_Pill
-wanna hear a joke to improve your mood ?
+
+<- stills of the Project->
+
+![Screenshot (382)](https://user-images.githubusercontent.com/86758548/181228602-975ab99e-0048-43ad-a488-ffff8a97173f.png)
 
 ![Screenshot (379)](https://user-images.githubusercontent.com/86758548/181228172-a0b1d2f9-076e-4bd8-8f94-b516c04da28d.png)
 
